@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning Coding Platform",
+  "description": "An e-learning platform for coding tutorials featuring interactive quizzes, a browser-based code playground, user-submitted peer reviews, and AI-powered custom tutorial generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
